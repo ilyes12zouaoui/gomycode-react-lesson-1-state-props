@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gomycode-react-lesson-1-state-props/precache-manifest.7d54d3d221efd716f472ab9f62724772.js"
+  "/gomycode-react-lesson-1-state-props/precache-manifest.96cb3a97c4bd640dfa0fba2790aad4ef.js"
 );
 
 self.addEventListener('message', (event) => {

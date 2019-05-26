@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fba507770281f6084e8465bb0c364c2",
+    "revision": "60daac412dd46d69e754e9bea53b53e4",
     "url": "/gomycode-react-lesson-1-state-props/index.html"
   },
   {
-    "revision": "0c480af0365275a877b9",
+    "revision": "5ee8ae365370490d93e4",
     "url": "/gomycode-react-lesson-1-state-props/static/css/main.839fa1d3.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gomycode-react-lesson-1-state-props/static/js/2.a51675cd.chunk.js"
   },
   {
-    "revision": "0c480af0365275a877b9",
-    "url": "/gomycode-react-lesson-1-state-props/static/js/main.7065ffac.chunk.js"
+    "revision": "5ee8ae365370490d93e4",
+    "url": "/gomycode-react-lesson-1-state-props/static/js/main.c141a67d.chunk.js"
   },
   {
     "revision": "c4dab2ae35304c18ca5a",
