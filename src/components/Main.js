@@ -11,7 +11,7 @@ class Main extends Component {
     super(props);
 
     this.state = {
-      isDropped: true,
+      isDropped: false,
       card: {
         title: "title 1",
         description: "description 1",
