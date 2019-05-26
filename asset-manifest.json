@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gomycode-css/static/css/main.839fa1d3.chunk.css",
-    "main.js": "/gomycode-css/static/js/main.ab0a3290.chunk.js",
-    "main.js.map": "/gomycode-css/static/js/main.ab0a3290.chunk.js.map",
-    "runtime~main.js": "/gomycode-css/static/js/runtime~main.cb8e5351.js",
-    "runtime~main.js.map": "/gomycode-css/static/js/runtime~main.cb8e5351.js.map",
-    "static/js/2.a51675cd.chunk.js": "/gomycode-css/static/js/2.a51675cd.chunk.js",
-    "static/js/2.a51675cd.chunk.js.map": "/gomycode-css/static/js/2.a51675cd.chunk.js.map",
-    "index.html": "/gomycode-css/index.html",
-    "precache-manifest.4f1fdb10ab65c978ff34d1df5491b4ff.js": "/gomycode-css/precache-manifest.4f1fdb10ab65c978ff34d1df5491b4ff.js",
-    "service-worker.js": "/gomycode-css/service-worker.js",
-    "static/css/main.839fa1d3.chunk.css.map": "/gomycode-css/static/css/main.839fa1d3.chunk.css.map",
-    "static/media/card1.jpg": "/gomycode-css/static/media/card1.4b4b18b0.jpg",
-    "static/media/card3.jpg": "/gomycode-css/static/media/card3.c033524b.jpg",
-    "static/media/logo.svg": "/gomycode-css/static/media/logo.5d5d9eef.svg"
+    "main.css": "/gomycode-react-lesson-1-state-props/static/css/main.839fa1d3.chunk.css",
+    "main.js": "/gomycode-react-lesson-1-state-props/static/js/main.7065ffac.chunk.js",
+    "main.js.map": "/gomycode-react-lesson-1-state-props/static/js/main.7065ffac.chunk.js.map",
+    "runtime~main.js": "/gomycode-react-lesson-1-state-props/static/js/runtime~main.a3b6725a.js",
+    "runtime~main.js.map": "/gomycode-react-lesson-1-state-props/static/js/runtime~main.a3b6725a.js.map",
+    "static/js/2.a51675cd.chunk.js": "/gomycode-react-lesson-1-state-props/static/js/2.a51675cd.chunk.js",
+    "static/js/2.a51675cd.chunk.js.map": "/gomycode-react-lesson-1-state-props/static/js/2.a51675cd.chunk.js.map",
+    "index.html": "/gomycode-react-lesson-1-state-props/index.html",
+    "precache-manifest.7d54d3d221efd716f472ab9f62724772.js": "/gomycode-react-lesson-1-state-props/precache-manifest.7d54d3d221efd716f472ab9f62724772.js",
+    "service-worker.js": "/gomycode-react-lesson-1-state-props/service-worker.js",
+    "static/css/main.839fa1d3.chunk.css.map": "/gomycode-react-lesson-1-state-props/static/css/main.839fa1d3.chunk.css.map",
+    "static/media/card1.jpg": "/gomycode-react-lesson-1-state-props/static/media/card1.4b4b18b0.jpg",
+    "static/media/card3.jpg": "/gomycode-react-lesson-1-state-props/static/media/card3.c033524b.jpg",
+    "static/media/logo.svg": "/gomycode-react-lesson-1-state-props/static/media/logo.5d5d9eef.svg"
   }
 }
